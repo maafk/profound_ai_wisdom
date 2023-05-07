@@ -1,5 +1,9 @@
 # Overlaying Text on an Image with Python
 
+Code to create images for the Instagram account [profound_ai_wisdom](https://www.instagram.com/profound_ai_wisdom/).
+
+Original blog post [here](https://taylorondrey.com/posts/profound-ai-wisdom/).
+
 ## Prerequisites
 
 Tested with Python 3.11.1 on a Macbook Pro
